@@ -1,0 +1,30 @@
+Talk about algorithms.
+알고리즘에 대해 이야기 해보자
+
+These days on the internet, 
+요즘에          / 인터넷에서
+information that users might be interested in seeing is recommended to them after analyzing their individual preferences.
+정보는 / 사용자가 보는 것에 흥미가 있을 지도 모른다 / 추천을 했다 / 그들의 개개인 환경 정보를 분석한 후에 /
+
+This is what we call an Al algorithm.
+이것은 우리는 AI알고리즘 이라 부른다.
+
+It’s a time-saver that helps us delve deeper into our interests.  / However, it is not without its downsides.
+이것의 시간 서버는 / 우리를 인터넷을 깊게 빠지기 위해 도움을 준다          / 하지만. 이것은 단점이 없을 수 없다.
+
+Firstly, fairness can be an issue 
+첫번째, 공정성이 이슈를 부를 수 있다.
+Personal information may be exposed, depending on the policy of each platform,
+개인적인 정보는 노출이 되었을지도 모른다.   , 각각의 플랫폼의 정책에 의존하는 것
+And content creators may have doubts fairness
+그리고 콘텐츠 제작자는 이중 공정성을 가졌을지도 모른다.
+
+Secondly, users may become biased.
+두번째로, 사용자는 치우치게 되었을지도 모른다.
+Users may only be exposed to information that they already like
+사용자는 오직 그들이 준비한 노출된 정보일지도 모른다.
+As a result, many people could develop biased perspectives.
+결과적으로,   많은 사람들은 / 편향된 관점을 가진다.
+
+This is why suppliers must create fair algorithm, and users should break the habit of relying solely on algorithms
+이것은 이유이다 / 공급자 / 공정한 알고리즘을 만든다. / 그리고 / 사용자 / 부셔야 한다 / 알고리즘에 기울리는 의존하는 습관  
